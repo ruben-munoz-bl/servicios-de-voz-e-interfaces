@@ -1,0 +1,14 @@
+{
+  "audio-1": {
+    "tipo": "noticia",
+    "frase": "El ayuntamiento de Valencia inauguró hoy la nueva línea de metro con servicios gratuitos durante todo el fin de semana."
+  },
+  "audio-2": {
+    "tipo": "reseña",
+    "frase": "La reserva del restaurante fue un desastre porque tardaron más de una hora en servir y el pescado llegó frío."
+  },
+  "audio-3": {
+    "tipo": "email",
+    "frase": "Hola Marta te escribo para confirmar la reunión del jueves a las once de la mañana en la sala de juntas."
+  }
+}
